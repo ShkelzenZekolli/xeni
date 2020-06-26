@@ -1,0 +1,501 @@
+#EXTM3U
+
+#EXTINF:-1 tvg-logo="http://www.albepg.com/tvlogi/Alsat-M.png",Alsat M
+http://172.16.90.101:25461/Shkelzen Zekolli/6c8a17RKLK/16
+
+#EXTINF:-1 tvg-logo="http://www.albepg.com/tvlogi/RTK%201.png",RTK 1 HD
+http://172.16.90.101:25461/Shkelzen Zekolli/6c8a17RKLK/9
+
+#EXTINF:-1 tvg-logo="http://www.albepg.com/tvlogi/RTK%203.png",RTK 3 HD
+http://172.16.90.101:25461/Shkelzen Zekolli/6c8a17RKLK/11
+
+#EXTINF:-1 tvg-logo="http://www.albepg.com/tvlogi/RTK%204.png",RTK 4 HD
+http://172.16.90.101:25461/Shkelzen Zekolli/6c8a17RKLK/12
+
+#EXTINF:-1 tvg-logo="http://www.albepg.com/tvlogi/Klan%20Kosova.png",Klan Kosova HD
+http://172.16.90.101:25461/Shkelzen Zekolli/6c8a17RKLK/4
+
+#EXTINF:-1 tvg-logo="http://www.albepg.com/tvlogi/T7.png", T7 HD
+http://172.16.90.101:25461/Shkelzen Zekolli/6c8a17RKLK/5
+
+#EXTINF:-1 tvg-logo="http://www.albepg.com/tvlogi/RTV%2021%20HD.png",RTV 21 HD
+http://172.16.90.101:25461/Shkelzen Zekolli/6c8a17RKLK/6
+
+#EXTINF:-1 tvg-logo="http://www.albepg.com/tvlogi/Koha%20Vision%20HD.png",KTV HD
+http://172.16.90.101:25461/Shkelzen Zekolli/6c8a17RKLK/7
+
+#EXTINF:-1 tvg-logo="http://www.albepg.com/tvlogi/TV%20Dukagjini.png",TV Dukagjini HD
+http://172.16.90.101:25461/Shkelzen Zekolli/6c8a17RKLK/8
+
+#EXTINF:-1 tvg-logo="http://www.albepg.com/tvlogi/Top%20Channel%20HD.png",Top Channel HD
+http://172.16.90.101:25461/Shkelzen Zekolli/6c8a17RKLK/1
+
+#EXTINF:-1 tvg-logo="http://www.albepg.com/tvlogi/Klan%20TV.png",Klan TV HD
+http://172.16.90.101:25461/Shkelzen Zekolli/6c8a17RKLK/2
+
+#EXTINF:-1 tvg-logo="http://www.albepg.com/tvlogi/Klan%20Plus.png",Klan Plus
+http://172.16.90.101:25461/Shkelzen Zekolli/6c8a17RKLK/3
+
+
+#EXTINF:-1 tvg-logo="http://www.albepg.com/tvlogi/TVSH.png",TVSH
+http://172.16.90.101:25461/Shkelzen Zekolli/6c8a17RKLK/13
+
+#EXTINF:-1 tvg-logo="http://www.albepg.com/tvlogi/Vizion%20Plus.png",Vizion Plus HD
+http://172.16.90.101:25461/Shkelzen Zekolli/6c8a17RKLK/14
+
+#EXTINF:-1 tvg-logo="http://www.albepg.com/tvlogi/3%20Plus.png",3 Plus
+http://172.16.90.101:25461/Shkelzen Zekolli/6c8a17RKLK/15
+
+#EXTINF:-1 tvg-logo="http://www.albepg.com/tvlogi/TDC.png",TDC
+http://172.16.90.101:25461/Shkelzen Zekolli/6c8a17RKLK/179
+
+#EXTINF:-1 tvg-logo="http://www.albepg.com/tvlogi/Living%20HD.png",Living HD
+http://172.16.90.101:25461/Shkelzen Zekolli/6c8a17RKLK/17
+
+#EXTINF:-1 tvg-logo="http://www.albepg.com/tvlogi/Rrokum%20TV.png",Rrookum HD
+http://172.16.90.101:25461/Shkelzen Zekolli/6c8a17RKLK/18
+
+#EXTINF:-1 tvg-logo="http://www.albepg.com/tvlogi/first%20CHANNEL.png",First Channel HD
+http://172.16.90.101:25461/Shkelzen Zekolli/6c8a17RKLK/19
+
+#EXTINF:-1 tvg-logo="http://www.albepg.com/tvlogi/Top%20News.png",Top News
+http://172.16.90.101:25461/Shkelzen Zekolli/6c8a17RKLK/20
+
+#EXTINF:-1 tvg-logo="http://www.albepg.com/tvlogi/Ora%20News.png",Ora News
+http://172.16.90.101:25461/Shkelzen Zekolli/6c8a17RKLK/180
+
+#EXTINF:-1 tvg-logo="http://www.albepg.com/tvlogi/7%20News.png",Kanali 7
+http://172.16.90.101:25461/Shkelzen Zekolli/6c8a17RKLK/21
+
+#EXTINF:-1 tvg-logo="http://www.albepg.com/tvlogi/Arta.png",Arta News HD
+http://172.16.90.101:25461/Shkelzen Zekolli/6c8a17RKLK/22
+
+#EXTINF:-1 ,Zeri TV
+http://172.16.90.101:25461/Shkelzen Zekolli/6c8a17RKLK/186
+
+#EXTINF:-1 tvg-logo="http://www.albepg.com/tvlogi/EuroNews%20Albania.png",Euro News
+http://172.16.90.101:25461/Shkelzen Zekolli/6c8a17RKLK/23
+
+#EXTINF:-1 ,Sky News
+http://172.16.90.101:25461/Shkelzen Zekolli/6c8a17RKLK/24
+
+#EXTINF:-1, BBC
+http://172.16.90.101:25461/Shkelzen Zekolli/6c8a17RKLK/25
+
+#EXTINF:-1,CNN
+http://172.16.90.101:25461/Shkelzen Zekolli/6c8a17RKLK/26
+
+#EXTINF:-1, Aljazzira Ballkans 
+http://172.16.90.101:25461/Shkelzen Zekolli/6c8a17RKLK/27
+
+#EXTINF:-1, N 24
+http://172.16.90.101:25461/Shkelzen Zekolli/6c8a17RKLK/28
+
+#EXTINF:-1 tvg-logo="http://www.albepg.com/tvlogi/Baby%20TV.png",Baby TV
+http://172.16.90.101:25461/Shkelzen Zekolli/6c8a17RKLK/29
+
+#EXTINF:-1 tvg-logo="http://www.albepg.com/tvlogi/Bang%20Bang.png",Bang Bang
+http://172.16.90.101:25461/Shkelzen Zekolli/6c8a17RKLK/30
+
+#EXTINF:-1 tvg-logo="http://www.albepg.com/tvlogi/Cufo%20TV.png",Cufo
+http://172.16.90.101:25461/Shkelzen Zekolli/6c8a17RKLK/31
+
+#EXTINF:-1 tvg-logo="http://www.albepg.com/tvlogi/Junior.png",Junior TV
+http://172.16.90.101:25461/Shkelzen Zekolli/6c8a17RKLK/32
+
+#EXTINF:-1 tvg-logo="http://www.albepg.com/tvlogi/21%20Junior.png",RTV 21 Junior
+http://172.16.90.101:25461/Shkelzen Zekolli/6c8a17RKLK/33
+
+#EXTINF:-1 tvg-logo="http://www.albepg.com/tvlogi/Tring%20Kids.png",Tring Kids
+http://172.16.90.101:25461/Shkelzen Zekolli/6c8a17RKLK/34
+
+#EXTINF:-1 tvg-logo="http://www.albepg.com/tvlogi/Tring%20Tring.png",Tring Tring
+http://172.16.90.101:25461/Shkelzen Zekolli/6c8a17RKLK/35
+
+#EXTINF:-1 tvg-logo="http://www.albepg.com/tvlogi/Tip%20TV.png",Tip TV
+http://172.16.90.101:25461/Shkelzen Zekolli/6c8a17RKLK/36
+
+#EXTINF:-1 ,Kika
+http://172.16.90.101:25461/Shkelzen Zekolli/6c8a17RKLK/37
+
+#EXTINF:-1 ,Toggo Plus
+http://172.16.90.101:25461/Shkelzen Zekolli/6c8a17RKLK/38
+
+#EXTINF:-1 ,Super RTL
+http://172.16.90.101:25461/Shkelzen Zekolli/6c8a17RKLK/39
+
+#EXTINF:-1 ,Nick TV
+http://172.16.90.101:25461/Shkelzen Zekolli/6c8a17RKLK/40
+
+#EXTINF:-1 ,Duck TV
+http://172.16.90.101:25461/Shkelzen Zekolli/6c8a17RKLK/183
+
+#EXTINF:-1 ,Cartoon Networ
+http://172.16.90.101:25461/Shkelzen Zekolli/6c8a17RKLK/184
+
+#EXTINF:-1 ,Boomerang
+http://172.16.90.101:25461/Shkelzen Zekolli/6c8a17RKLK/185
+
+#EXTINF:-1 tvg-logo="http://www.albepg.com/tvlogi/Folk%20Plus.png",Folk Plus
+http://172.16.90.101:25461/Shkelzen Zekolli/6c8a17RKLK/41
+
+#EXTINF:-1 tvg-logo="http://www.albepg.com/tvlogi/BBF.png",BBF
+http://172.16.90.101:25461/Shkelzen Zekolli/6c8a17RKLK/42
+
+#EXTINF:-1 tvg-logo="http://www.albepg.com/tvlogi/21%20Popullore.png",RTV 21 Popullore
+http://172.16.90.101:25461/Shkelzen Zekolli/6c8a17RKLK/43
+
+#EXTINF:-1 tvg-logo="http://www.albepg.com/tvlogi/21%20Plus%20HD.png",RTV 21 Plus
+http://172.16.90.101:25461/Shkelzen Zekolli/6c8a17RKLK/44
+
+#EXTINF:-1 tvg-logo="http://www.albepg.com/tvlogi/21%20Mix.png",RTV 21 Mix
+http://172.16.90.101:25461/Shkelzen Zekolli/6c8a17RKLK/45
+
+#EXTINF:-1 tvg-logo="http://www.albepg.com/tvlogi/Dasma%20TV.png",Dasma TV
+http://172.16.90.101:25461/Shkelzen Zekolli/6c8a17RKLK/46
+
+#EXTINF:-1 ,Turbo Channel
+http://172.16.90.101:25461/Shkelzen Zekolli/6c8a17RKLK/47
+
+#EXTINF:-1 tvg-logo="http://www.albepg.com/tvlogi/MTV%20Kosova.png",MTV Kosova
+http://172.16.90.101:25461/Shkelzen Zekolli/6c8a17RKLK/48
+
+#EXTINF:-1 tvg-logo="http://www.albepg.com/tvlogi/AMOL.png",Amol TV
+http://172.16.90.101:25461/Shkelzen Zekolli/6c8a17RKLK/49
+
+#EXTINF:-1 tvg-logo="http://www.albepg.com/tvlogi/On-TV.png",ON TV
+http://172.16.90.101:25461/Shkelzen Zekolli/6c8a17RKLK/50
+
+#EXTINF:-1 tvg-logo="http://www.albepg.com/tvlogi/EXPLORER%20Shkence.png",Explorer Shkence
+http://172.16.90.101:25461/Shkelzen Zekolli/6c8a17RKLK/51
+
+#EXTINF:-1 tvg-logo="http://www.albepg.com/tvlogi/EXPLORER%20Natyra.png",Explorer Natyra
+http://172.16.90.101:25461/Shkelzen Zekolli/6c8a17RKLK/52
+
+#EXTINF:-1 tvg-logo="http://www.albepg.com/tvlogi/EXPLORER%20Histori.png",Explorer Histori
+http://172.16.90.101:25461/Shkelzen Zekolli/6c8a17RKLK/53
+
+#EXTINF:-1 tvg-logo="http://www.albepg.com/tvlogi/Tring%20History.png",Tring History
+http://172.16.90.101:25461/Shkelzen Zekolli/6c8a17RKLK/54
+
+#EXTINF:-1 tvg-logo="http://www.albepg.com/tvlogi/Tring%20World.png",Tring World
+http://172.16.90.101:25461/Shkelzen Zekolli/6c8a17RKLK/55
+
+#EXTINF:-1 tvg-logo="http://www.albepg.com/tvlogi/Tring%20Planet.png",Tring Planet
+http://172.16.90.101:25461/Shkelzen Zekolli/6c8a17RKLK/56
+
+#EXTINF:-1,Gallaxy HD
+http://172.16.90.101:25461/Shkelzen Zekolli/6c8a17RKLK/57
+
+#EXTINF:-1,Geo HD
+http://172.16.90.101:25461/Shkelzen Zekolli/6c8a17RKLK/58
+
+#EXTINF:-1,Planet
+http://172.16.90.101:25461/Shkelzen Zekolli/6c8a17RKLK/59
+#EXTINF:-1,Nationat Geographic
+http://172.16.90.101:25461/Shkelzen Zekolli/6c8a17RKLK/60
+#EXTINF:-1,Nationat Geographic Wild
+http://172.16.90.101:25461/Shkelzen Zekolli/6c8a17RKLK/61
+#EXTINF:-1,Discovery Channel
+http://172.16.90.101:25461/Shkelzen Zekolli/6c8a17RKLK/62
+#EXTINF:-1,ID Xtra Europe
+http://172.16.90.101:25461/Shkelzen Zekolli/6c8a17RKLK/63
+#EXTINF:-1,TLC
+http://172.16.90.101:25461/Shkelzen Zekolli/6c8a17RKLK/64
+#EXTINF:-1,Dmax
+http://172.16.90.101:25461/Shkelzen Zekolli/6c8a17RKLK/65
+#EXTINF:-1,24 Kitchen
+http://172.16.90.101:25461/Shkelzen Zekolli/6c8a17RKLK/182
+
+#EXTINF:-1 tvg-logo="http://www.albepg.com/tvlogi/Film%20Nje%20HD.png",Film Nje HD
+http://172.16.90.101:25461/Shkelzen Zekolli/6c8a17RKLK/66
+
+#EXTINF:-1 tvg-logo="http://www.albepg.com/tvlogi/Film%20Dy%20HD.png",Film Dy HD
+http://172.16.90.101:25461/Shkelzen Zekolli/6c8a17RKLK/67
+
+#EXTINF:-1 tvg-logo="http://www.albepg.com/tvlogi/Film%20Thriller.png",Film Thriller
+http://172.16.90.101:25461/Shkelzen Zekolli/6c8a17RKLK/68
+
+#EXTINF:-1 tvg-logo="http://www.albepg.com/tvlogi/Film%20Komedi.png",Film Komedi
+http://172.16.90.101:25461/Shkelzen Zekolli/6c8a17RKLK/69
+
+#EXTINF:-1 tvg-logo="http://www.albepg.com/tvlogi/Film%20Hits.png",Film Hits HD
+http://172.16.90.101:25461/Shkelzen Zekolli/6c8a17RKLK/70
+
+#EXTINF:-1 tvg-logo="http://www.albepg.com/tvlogi/Film%20Drame.png",Film Drame
+http://172.16.90.101:25461/Shkelzen Zekolli/6c8a17RKLK/71
+
+#EXTINF:-1 tvg-logo="http://www.albepg.com/tvlogi/Film%20Autor.png",Film Autor
+http://172.16.90.101:25461/Shkelzen Zekolli/6c8a17RKLK/72
+
+#EXTINF:-1 tvg-logo="http://www.albepg.com/tvlogi/Film%20Aksion.png",Film Aksion 
+http://172.16.90.101:25461/Shkelzen Zekolli/6c8a17RKLK/73
+
+#EXTINF:-1 tvg-logo="http://www.albepg.com/tvlogi/Tring%20Shqip.png",Tring Shqip
+http://172.16.90.101:25461/Shkelzen Zekolli/6c8a17RKLK/74
+
+#EXTINF:-1 tvg-logo="http://www.albepg.com/tvlogi/Jolly%20HD.png",Jolly HD
+http://172.16.90.101:25461/Shkelzen Zekolli/6c8a17RKLK/75
+
+#EXTINF:-1 tvg-logo="http://www.albepg.com/tvlogi/Tring%20Super.png",Tring Super HD
+http://172.16.90.101:25461/Shkelzen Zekolli/6c8a17RKLK/76
+
+#EXTINF:-1 tvg-logo="http://www.albepg.com/tvlogi/Tring%20Action.png",Tring Aksion HD
+http://172.16.90.101:25461/Shkelzen Zekolli/6c8a17RKLK/77
+
+#EXTINF:-1 tvg-logo="http://www.albepg.com/tvlogi/Tring%20Fantasy.png",Tring Fantasy
+http://172.16.90.101:25461/Shkelzen Zekolli/6c8a17RKLK/78
+
+#EXTINF:-1 tvg-logo="http://www.albepg.com/tvlogi/Tring%20Comedy.png",Tring Comedy
+http://172.16.90.101:25461/Shkelzen Zekolli/6c8a17RKLK/79
+
+#EXTINF:-1 tvg-logo="http://www.albepg.com/tvlogi/Tring%20Life.png",Tring Life
+http://172.16.90.101:25461/Shkelzen Zekolli/6c8a17RKLK/80
+
+#EXTINF:-1 tvg-logo="http://www.albepg.com/tvlogi/FOX.png",FOX
+http://172.16.90.101:25461/Shkelzen Zekolli/6c8a17RKLK/81
+
+#EXTINF:-1 tvg-logo="http://www.albepg.com/tvlogi/FOX%20Life.png",Fox Life
+http://172.16.90.101:25461/Shkelzen Zekolli/6c8a17RKLK/82
+
+#EXTINF:-1 tvg-logo="http://www.albepg.com/tvlogi/FOX%20Crime.png",Fox Crime
+http://172.16.90.101:25461/Shkelzen Zekolli/6c8a17RKLK/83
+
+#EXTINF:-1 tvg-logo="http://www.albepg.com/tvlogi/Smile.png",Smile
+http://172.16.90.101:25461/Shkelzen Zekolli/6c8a17RKLK/84
+
+#EXTINF:-1,7 HD
+http://172.16.90.101:25461/Shkelzen Zekolli/6c8a17RKLK/85
+#EXTINF:-1,Star HD
+http://172.16.90.101:25461/Shkelzen Zekolli/6c8a17RKLK/86
+
+#EXTINF:-1 tvg-logo="http://www.albepg.com/tvlogi/Sky%20Aksion.png",Aksion
+http://172.16.90.101:25461/Shkelzen Zekolli/6c8a17RKLK/87
+
+#EXTINF:-1 tvg-logo="",Max
+http://172.16.90.101:25461/Shkelzen Zekolli/6c8a17RKLK/88
+
+#EXTINF:-1 tvg-logo="http://www.albepg.com/tvlogi/Sky%20Comedy.png",Komedi
+http://172.16.90.101:25461/Shkelzen Zekolli/6c8a17RKLK/89
+
+#EXTINF:-1 tvg-logo="",Drame
+http://172.16.90.101:25461/Shkelzen Zekolli/6c8a17RKLK/90
+
+#EXTINF:-1 ,Film Box Premium
+http://172.16.90.101:25461/Shkelzen Zekolli/6c8a17RKLK/137
+
+#EXTINF:-1 ,Film Box Extra
+http://172.16.90.101:25461/Shkelzen Zekolli/6c8a17RKLK/138
+
+#EXTINF:-1 ,Film Box Plus
+http://172.16.90.101:25461/Shkelzen Zekolli/6c8a17RKLK/139
+#EXTINF:-1,FilmBox Arthouse
+http://172.16.90.101:25461/Shkelzen Zekolli/6c8a17RKLK/140
+#EXTINF:-1,FAST&FUN Box
+http://172.16.90.101:25461/Shkelzen Zekolli/6c8a17RKLK/141
+#EXTINF:-1,Fight Box
+http://172.16.90.101:25461/Shkelzen Zekolli/6c8a17RKLK/142
+#EXTINF:-1,Gametoon
+http://172.16.90.101:25461/Shkelzen Zekolli/6c8a17RKLK/143
+#EXTINF:-1,HBO HD
+http://172.16.90.101:25461/Shkelzen Zekolli/6c8a17RKLK/174
+#EXTINF:-1,HBO 2 HD
+http://172.16.90.101:25461/Shkelzen Zekolli/6c8a17RKLK/175
+#EXTINF:-1,HBO 3 HD
+http://172.16.90.101:25461/Shkelzen Zekolli/6c8a17RKLK/176
+#EXTINF:-1,Cinemax HD
+http://172.16.90.101:25461/Shkelzen Zekolli/6c8a17RKLK/177
+#EXTINF:-1,Cinemax 2 HD
+http://172.16.90.101:25461/Shkelzen Zekolli/6c8a17RKLK/178
+
+#EXTINF:-1,TV 8
+http://172.16.90.101:25461/Shkelzen Zekolli/6c8a17RKLK/165
+
+#EXTINF:-1 tvg-logo="http://www.albepg.com/tvlogi/ERA%20TV.png",Era TV
+http://172.16.90.101:25461/Shkelzen Zekolli/6c8a17RKLK/107
+
+#EXTINF:-1  tvg-logo="http://www.albepg.com/tvlogi/Shenja%20TV.png",Shenja TV
+http://172.16.90.101:25461/Shkelzen Zekolli/6c8a17RKLK/108
+
+#EXTINF:-1 tvg-logo="http://www.albepg.com/tvlogi/Peace%20TV.png",Peace  TV
+http://172.16.90.101:25461/Shkelzen Zekolli/6c8a17RKLK/109
+
+#EXTINF:-1 tvg-logo="http://www.albepg.com/tvlogi/TV%20Besa.png",TV Besa
+http://172.16.90.101:25461/Shkelzen Zekolli/6c8a17RKLK/110
+
+#EXTINF:-1 tvg-logo="http://www.albepg.com/tvlogi/TV%20Prizreni.png",TV Prizreni
+http://172.16.90.101:25461/Shkelzen Zekolli/6c8a17RKLK/111
+
+#EXTINF:-1 tvg-logo="http://www.albepg.com/tvlogi/TV%20Opinion.png",TV Opinion
+http://172.16.90.101:25461/Shkelzen Zekolli/6c8a17RKLK/112
+
+#EXTINF:-1 ,TV Vali
+http://172.16.90.101:25461/Shkelzen Zekolli/6c8a17RKLK/113
+
+#EXTINF:-1 ,TV Mitrovica
+http://172.16.90.101:25461/Shkelzen Zekolli/6c8a17RKLK/114
+
+#EXTINF:-1 tvg-logo="http://www.albepg.com/tvlogi/TemA.png",TV Tema
+http://172.16.90.101:25461/Shkelzen Zekolli/6c8a17RKLK/115
+
+#EXTINF:-1 tvg-logo="http://www.albepg.com/tvlogi/tv%20LIRIA.png",TV Liria
+http://172.16.90.101:25461/Shkelzen Zekolli/6c8a17RKLK/116
+
+#EXTINF:-1 tvg-logo="http://www.albepg.com/tvlogi/Syri%20Vision.png",Syri Vision
+http://172.16.90.101:25461/Shkelzen Zekolli/6c8a17RKLK/117
+
+#EXTINF:-1 tvg-logo="http://www.albepg.com/tvlogi/TV%20DIELLI.png",TV Dielli HD
+http://172.16.90.101:25461/Shkelzen Zekolli/6c8a17RKLK/187
+#EXTINF:-1,Pozitive Gold
+http://172.16.90.101:25461/Shkelzen Zekolli/6c8a17RKLK/118
+
+#EXTINF:-1 ,RTV Fontana
+http://172.16.90.101:25461/Shkelzen Zekolli/6c8a17RKLK/119
+
+#EXTINF:-1 tvg-logo="http://www.albepg.com/tvlogi/Zico%20TV.png",Zico TV
+http://172.16.90.101:25461/Shkelzen Zekolli/6c8a17RKLK/120
+
+#EXTINF:-1 ,Music Box
+http://172.16.90.101:25461/Shkelzen Zekolli/6c8a17RKLK/121
+#EXTINF:-1,MTV
+http://172.16.90.101:25461/Shkelzen Zekolli/6c8a17RKLK/122
+#EXTINF:-1,MTV Hits
+http://172.16.90.101:25461/Shkelzen Zekolli/6c8a17RKLK/123
+#EXTINF:-1,MTV Rocks
+http://172.16.90.101:25461/Shkelzen Zekolli/6c8a17RKLK/124
+#EXTINF:-1,VH 1
+http://172.16.90.101:25461/Shkelzen Zekolli/6c8a17RKLK/125
+#EXTINF:-1,VH 1 Classic
+http://172.16.90.101:25461/Shkelzen Zekolli/6c8a17RKLK/126
+#EXTINF:-1,360 Tune Box
+http://172.16.90.101:25461/Shkelzen Zekolli/6c8a17RKLK/127
+#EXTINF:-1,NR 1 Turk
+http://172.16.90.101:25461/Shkelzen Zekolli/6c8a17RKLK/128
+#EXTINF:-1,TRT Music
+http://172.16.90.101:25461/Shkelzen Zekolli/6c8a17RKLK/129
+#EXTINF:-1,Arte
+http://172.16.90.101:25461/Shkelzen Zekolli/6c8a17RKLK/130
+#EXTINF:-1,Fashion TV
+http://172.16.90.101:25461/Shkelzen Zekolli/6c8a17RKLK/131
+#EXTINF:-1,Fashion Box
+http://172.16.90.101:25461/Shkelzen Zekolli/6c8a17RKLK/132
+#EXTINF:-1,RTL 
+http://172.16.90.101:25461/Shkelzen Zekolli/6c8a17RKLK/144
+#EXTINF:-1,RTL 2
+http://172.16.90.101:25461/Shkelzen Zekolli/6c8a17RKLK/145
+#EXTINF:-1,RTL Plus
+http://172.16.90.101:25461/Shkelzen Zekolli/6c8a17RKLK/146
+#EXTINF:-1,Sat 1
+http://172.16.90.101:25461/Shkelzen Zekolli/6c8a17RKLK/147
+#EXTINF:-1,Sat 1 Gold
+http://172.16.90.101:25461/Shkelzen Zekolli/6c8a17RKLK/148
+#EXTINF:-1,Pro 7
+http://172.16.90.101:25461/Shkelzen Zekolli/6c8a17RKLK/149
+#EXTINF:-1,Pro 7 Max
+http://172.16.90.101:25461/Shkelzen Zekolli/6c8a17RKLK/150
+#EXTINF:-1,Cable 1
+http://172.16.90.101:25461/Shkelzen Zekolli/6c8a17RKLK/151
+#EXTINF:-1,3 Sat
+http://172.16.90.101:25461/Shkelzen Zekolli/6c8a17RKLK/152
+#EXTINF:-1,Vox
+http://172.16.90.101:25461/Shkelzen Zekolli/6c8a17RKLK/153
+#EXTINF:-1,DW
+http://172.16.90.101:25461/Shkelzen Zekolli/6c8a17RKLK/154
+#EXTINF:-1,Rai Uno
+http://172.16.90.101:25461/Shkelzen Zekolli/6c8a17RKLK/155
+#EXTINF:-1,TV 5 Monde
+http://172.16.90.101:25461/Shkelzen Zekolli/6c8a17RKLK/156
+#EXTINF:-1,HRT 1
+http://172.16.90.101:25461/Shkelzen Zekolli/6c8a17RKLK/157
+#EXTINF:-1,Hayat Plus
+http://172.16.90.101:25461/Shkelzen Zekolli/6c8a17RKLK/158
+#EXTINF:-1,Show TV
+http://172.16.90.101:25461/Shkelzen Zekolli/6c8a17RKLK/172
+#EXTINF:-1,Star TV
+http://172.16.90.101:25461/Shkelzen Zekolli/6c8a17RKLK/173
+#EXTINF:-1,Kanal D
+http://172.16.90.101:25461/Shkelzen Zekolli/6c8a17RKLK/170
+#EXTINF:-1,Tek Rrumeli
+http://172.16.90.101:25461/Shkelzen Zekolli/6c8a17RKLK/169
+#EXTINF:-1,ATV
+http://172.16.90.101:25461/Shkelzen Zekolli/6c8a17RKLK/171
+#EXTINF:-1,TRT 1
+http://172.16.90.101:25461/Shkelzen Zekolli/6c8a17RKLK/159
+#EXTINF:-1,TRT  Turk
+http://172.16.90.101:25461/Shkelzen Zekolli/6c8a17RKLK/160
+#EXTINF:-1,TRT World
+http://172.16.90.101:25461/Shkelzen Zekolli/6c8a17RKLK/161
+#EXTINF:-1,TRT Haber
+http://172.16.90.101:25461/Shkelzen Zekolli/6c8a17RKLK/162
+#EXTINF:-1,TRT Belgesel
+http://172.16.90.101:25461/Shkelzen Zekolli/6c8a17RKLK/163
+#EXTINF:-1,Beyaz TV
+http://172.16.90.101:25461/Shkelzen Zekolli/6c8a17RKLK/164
+#EXTINF:-1,TV 8.5
+http://172.16.90.101:25461/Shkelzen Zekolli/6c8a17RKLK/166
+#EXTINF:-1,Fox Turk
+http://172.16.90.101:25461/Shkelzen Zekolli/6c8a17RKLK/167
+#EXTINF:-1,NTV
+http://172.16.90.101:25461/Shkelzen Zekolli/6c8a17RKLK/168
+
+#EXTINF:-1 tvg-logo="http://www.albepg.com/tvlogi/SuperSport%201%20HD.png",Super Sport 1 HD
+http://172.16.90.101:25461/Shkelzen Zekolli/6c8a17RKLK/91
+
+#EXTINF:-1 tvg-logo="http://www.albepg.com/tvlogi/SuperSport%202%20HD.png",Super Sport 2 HD
+http://172.16.90.101:25461/Shkelzen Zekolli/6c8a17RKLK/92
+
+#EXTINF:-1 tvg-logo="http://www.albepg.com/tvlogi/SuperSport%203%20HD.png",Super Sport 3 HD
+http://172.16.90.101:25461/Shkelzen Zekolli/6c8a17RKLK/93
+
+#EXTINF:-1 tvg-logo="http://www.albepg.com/tvlogi/SuperSport%204%20HD.png",Super Sport 4 HD
+http://172.16.90.101:25461/Shkelzen Zekolli/6c8a17RKLK/94
+
+#EXTINF:-1 tvg-logo="http://www.albepg.com/tvlogi/SuperSport%205.png",Super Sport 5 HD
+http://172.16.90.101:25461/Shkelzen Zekolli/6c8a17RKLK/188
+
+#EXTINF:-1 tvg-logo="http://www.albepg.com/tvlogi/Tring%20Sport%20News%20HD.png",Tring Sport News HD
+http://172.16.90.101:25461/Shkelzen Zekolli/6c8a17RKLK/95
+
+#EXTINF:-1 tvg-logo="http://www.albepg.com/tvlogi/Tring%20Sport%201%20HD.png",Tring Sport 1 HD
+http://172.16.90.101:25461/Shkelzen Zekolli/6c8a17RKLK/96
+
+#EXTINF:-1 tvg-logo="http://www.albepg.com/tvlogi/Tring%20Sport%202%20HD.png",Tring Sport 2 HD
+http://172.16.90.101:25461/Shkelzen Zekolli/6c8a17RKLK/97
+
+#EXTINF:-1 tvg-logo="http://www.albepg.com/tvlogi/Tring%20Sport%203%20HD.png",Tring Sport 3 HD
+http://172.16.90.101:25461/Shkelzen Zekolli/6c8a17RKLK/98
+
+#EXTINF:-1 tvg-logo="http://www.albepg.com/tvlogi/Tring%20Sport%204%20HD.png",Tring Sport 4 HD
+http://172.16.90.101:25461/Shkelzen Zekolli/6c8a17RKLK/99
+
+#EXTINF:-1 tvg-logo="http://www.albepg.com/tvlogi/EuroSport%20HD.png",Euro Sport 1
+http://172.16.90.101:25461/Shkelzen Zekolli/6c8a17RKLK/100
+
+#EXTINF:-1 tvg-logo="http://www.albepg.com/tvlogi/EuroSport%202%20HD.png",Euro Sport 2 HD
+http://172.16.90.101:25461/Shkelzen Zekolli/6c8a17RKLK/101
+
+#EXTINF:-1 tvg-logo="http://www.albepg.com/tvlogi/Arena%20Sport%201.png",Arena Sport 1
+http://172.16.90.101:25461/Shkelzen Zekolli/6c8a17RKLK/102
+
+#EXTINF:-1 tvg-logo="http://www.albepg.com/tvlogi/Arena%20Sport%202.png",Arena Sport 2
+http://172.16.90.101:25461/Shkelzen Zekolli/6c8a17RKLK/103
+
+#EXTINF:-1 tvg-logo="http://www.albepg.com/tvlogi/Arena%20Sport%203.png",Arena Sport 3
+http://172.16.90.101:25461/Shkelzen Zekolli/6c8a17RKLK/104
+
+#EXTINF:-1 ,Sport Klub 1 HD
+http://172.16.90.101:25461/Shkelzen Zekolli/6c8a17RKLK/105
+#EXTINF:-1,Sport Klub 2 HD
+http://172.16.90.101:25461/Shkelzen Zekolli/6c8a17RKLK/106
+
+#EXTINF:-1 tvg-logo="http://www.albepg.com/tvlogi/Kujtesa%20Sport%201.png",Kujtesa Sport 1
+http://172.16.90.101:25461/Shkelzen Zekolli/6c8a17RKLK/133
+
+#EXTINF:-1 tvg-logo="http://www.albepg.com/tvlogi/Kujtesa%20Sport%202.png",Kujtesa Sport 2
+http://172.16.90.101:25461/Shkelzen Zekolli/6c8a17RKLK/134
+
+#EXTINF:-1 tvg-logo="http://www.albepg.com/tvlogi/Kujtesa%20Sport%203.png",Kujtesa Sport 3
+http://172.16.90.101:25461/Shkelzen Zekolli/6c8a17RKLK/135
+
+#EXTINF:-1 tvg-logo="http://www.albepg.com/tvlogi/Kujtesa%20Sport%204.png",Kujtesa Sport 4
+http://172.16.90.101:25461/Shkelzen Zekolli/6c8a17RKLK/136
