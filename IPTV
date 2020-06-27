@@ -1,6 +1,4 @@
 #EXTM3U
-#EXTINF:-1 tvg-logo="http://www.albepg.com/tvlogi/Alsat-M.png",Film
-http://172.16.90.101:25461/Shkelzen Zekolli/6c8a17RKLK/9
 
 #EXTINF:-1 tvg-logo="http://www.albepg.com/tvlogi/Alsat-M.png",Alsat M
 http://172.16.90.101:25461/Shkelzen Zekolli/6c8a17RKLK/16
