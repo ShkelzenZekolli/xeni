@@ -1,30 +1,8 @@
 #EXTM3U
-#EXTINF:-1,RTK1
-http://176.31.74.161:8081/live/rtk1/playlist.m3u8
-#EXTINF:-1,RTK3
-http://176.31.74.161:8081/live/rtk3/playlist.m3u8
-#EXTINF:-1,RTK4
-http://176.31.74.161:8081/live/rtk4/playlist.m3u8
-#EXTINF:-1,Ktv
-http://185.47.188.226/live/ktv/playlist.m3u8
-#EXTINF:-1,21
-http://185.47.188.226/live/tv21/playlist.m3u8
-#EXTINF:-1,TV Dukagjini
-http://185.47.188.226/live/tv_dukagjini/playlist.m3u8
-#EXTINF:0, Tv Mitrovica
-http://185.47.188.226/live/tv_mitrovica/playlist.m3u8
+
 #EXTINF:-1,TV ARI
 http://live.aritv.ch:6969/live/ari/tv/1.ts
-#EXTINF:-1,Folk+
-http://185.47.188.226/live/folk_plus/playlist.m3u8
-#EXTINF:-1,Bbf
-http://185.47.188.226/live/bbf/playlist.m3u8
-#EXTINF:-1,Dasma tv
-http://185.47.188.226/live/dasma_tv/playlist.m3u8
-#EXTINF:-1,Turbo channel
-http://185.47.188.226/live/turbo_channel/playlist.m3u8
-#EXTINF:-1,RTV Fontana
-http://185.47.188.226/live/rtv_fontana/playlist.m3u8
+
 #EXTINF:0 group-title="ALB IPTV" tvg-logo="https://i.imgur.com/O7QHVkF.png",al: RTK 1
 http://stream1.rtkit.com:1935/rtk1stream/rtk1.stream/playlist.m3u8
 #EXTINF:0 group-title="ALB IPTV" tvg-logo="https://i.imgur.com/uE3uH28.png",sr: RTK 2
